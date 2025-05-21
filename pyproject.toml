@@ -1,0 +1,7 @@
+[project]
+name = "repatch-cli"
+version = "0.1.0"
+description = "Download and patch any compatible app with Revanced CLI"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = ["beautifulsoup4>=4.13.4", "requests>=2.32.3"]
